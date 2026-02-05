@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/student-admission-management-system-213776-213792/admission_frontend"
+}
